@@ -1,0 +1,147 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\HP\\source\\repos\\WpfCalcApp2\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{1B71781E-5444-4153-8D32-515FBBFF8746}|WpfCalcApp2\\WpfCalcApp2.csproj|c:\\users\\hp\\source\\repos\\wpfcalcapp2\\wpfcalcapp2\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1B71781E-5444-4153-8D32-515FBBFF8746}|WpfCalcApp2\\WpfCalcApp2.csproj|solutionrelative:wpfcalcapp2\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1B71781E-5444-4153-8D32-515FBBFF8746}|WpfCalcApp2\\WpfCalcApp2.csproj|c:\\users\\hp\\source\\repos\\wpfcalcapp2\\wpfcalcapp2\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{1B71781E-5444-4153-8D32-515FBBFF8746}|WpfCalcApp2\\WpfCalcApp2.csproj|solutionrelative:wpfcalcapp2\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1B71781E-5444-4153-8D32-515FBBFF8746}|WpfCalcApp2\\WpfCalcApp2.csproj|c:\\users\\hp\\source\\repos\\wpfcalcapp2\\wpfcalcapp2\\app.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{1B71781E-5444-4153-8D32-515FBBFF8746}|WpfCalcApp2\\WpfCalcApp2.csproj|solutionrelative:wpfcalcapp2\\app.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1B71781E-5444-4153-8D32-515FBBFF8746}|WpfCalcApp2\\WpfCalcApp2.csproj|c:\\users\\hp\\source\\repos\\wpfcalcapp2\\wpfcalcapp2\\app.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{1B71781E-5444-4153-8D32-515FBBFF8746}|WpfCalcApp2\\WpfCalcApp2.csproj|solutionrelative:wpfcalcapp2\\app.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1B71781E-5444-4153-8D32-515FBBFF8746}|WpfCalcApp2\\WpfCalcApp2.csproj|c:\\users\\hp\\source\\repos\\wpfcalcapp2\\wpfcalcapp2\\app.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1B71781E-5444-4153-8D32-515FBBFF8746}|WpfCalcApp2\\WpfCalcApp2.csproj|solutionrelative:wpfcalcapp2\\app.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 182,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 15,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{eefa5220-e298-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{b1e99781-ab81-11d0-b683-00aa00a3ee26}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{a80febb4-e7e0-4147-b476-21aaf2453969}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "App.config",
+              "DocumentMoniker": "C:\\Users\\HP\\source\\repos\\WpfCalcApp2\\WpfCalcApp2\\App.config",
+              "RelativeDocumentMoniker": "WpfCalcApp2\\App.config",
+              "ToolTip": "C:\\Users\\HP\\source\\repos\\WpfCalcApp2\\WpfCalcApp2\\App.config",
+              "RelativeToolTip": "WpfCalcApp2\\App.config",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000601|",
+              "WhenOpened": "2025-05-21T21:47:10.955Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "App.xaml",
+              "DocumentMoniker": "C:\\Users\\HP\\source\\repos\\WpfCalcApp2\\WpfCalcApp2\\App.xaml",
+              "RelativeDocumentMoniker": "WpfCalcApp2\\App.xaml",
+              "ToolTip": "C:\\Users\\HP\\source\\repos\\WpfCalcApp2\\WpfCalcApp2\\App.xaml",
+              "RelativeToolTip": "WpfCalcApp2\\App.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-05-21T21:46:22.262Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "App.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\HP\\source\\repos\\WpfCalcApp2\\WpfCalcApp2\\App.xaml.cs",
+              "RelativeDocumentMoniker": "WpfCalcApp2\\App.xaml.cs",
+              "ToolTip": "C:\\Users\\HP\\source\\repos\\WpfCalcApp2\\WpfCalcApp2\\App.xaml.cs",
+              "RelativeToolTip": "WpfCalcApp2\\App.xaml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-21T21:46:13.883Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{e1b7d1f8-9b3c-49b1-8f4f-bfc63a88835d}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "MainWindow.xaml",
+              "DocumentMoniker": "C:\\Users\\HP\\source\\repos\\WpfCalcApp2\\WpfCalcApp2\\MainWindow.xaml",
+              "RelativeDocumentMoniker": "WpfCalcApp2\\MainWindow.xaml",
+              "ToolTip": "C:\\Users\\HP\\source\\repos\\WpfCalcApp2\\WpfCalcApp2\\MainWindow.xaml",
+              "RelativeToolTip": "WpfCalcApp2\\MainWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-05-21T21:41:36.542Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "MainWindow.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\HP\\source\\repos\\WpfCalcApp2\\WpfCalcApp2\\MainWindow.xaml.cs",
+              "RelativeDocumentMoniker": "WpfCalcApp2\\MainWindow.xaml.cs",
+              "ToolTip": "C:\\Users\\HP\\source\\repos\\WpfCalcApp2\\WpfCalcApp2\\MainWindow.xaml.cs",
+              "RelativeToolTip": "WpfCalcApp2\\MainWindow.xaml.cs",
+              "ViewState": "AgIAAFwAAAAAAAAAAAAwwLEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-21T21:41:36.46Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
